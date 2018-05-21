@@ -1,0 +1,27 @@
+{
+  "name": "kata-pencil-durability",
+  "version": "0.0.1",
+  "description": "Kata to test out Pencil Durability",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyatpillar/kata-pencil-durability.git"
+  },
+  "keywords": [
+    "kata",
+    "javascript"
+  ],
+  "author": "Kenny Drobnack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennyatpillar/kata-pencil-durability/issues"
+  },
+  "homepage": "https://github.com/kennyatpillar/kata-pencil-durability#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
